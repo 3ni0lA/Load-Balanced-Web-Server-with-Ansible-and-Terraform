@@ -1,2 +1,2 @@
 # altschool-projects
-for my projects
+This is the  series of projects i found difficulties with
